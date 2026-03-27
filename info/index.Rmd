@@ -1,0 +1,14 @@
+---
+title: "Sarah"
+image: "logo.png"
+links:
+  - label: GitHub
+    url: "https://github.com/"
+  - label: Email
+    url: "mailto:sarahramalhoxx@gmail.com"
+  - label: Página profissional
+output:
+  postcards::jolla
+---
+ 
+Descrição sobre o aluno(a)!
