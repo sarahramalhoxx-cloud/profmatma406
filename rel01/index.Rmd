@@ -1,6 +1,6 @@
 ---
 title: "Relatório 01 - Introdução ao R"
-author: "Ben Dêivide"
+author: "Sarah"
 date: "12/04/2022"
 header-includes:
   - \usepackage{titling}
