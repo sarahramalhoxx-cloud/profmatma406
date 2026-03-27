@@ -1,7 +1,7 @@
 ---
-title: "Relatório 01 - Introdução ao R"
+title: "Relatório 01 - Introdução ao R (Título)"
 author: "Sarah"
-date: "12/04/2022"
+date: "27/03/2026"
 header-includes:
   - \usepackage{titling}
   - \pretitle{\begin{center}
